@@ -1,6 +1,6 @@
 <div align="center">
 
-#Cherry :cherries:
+# Cherry :cherries:
 
 ### Chào mừng đến với kho lưu trữ của chúng tôi!
 
@@ -30,6 +30,8 @@ Kỹ thuật sử dụng: Flutter, Local Notification, Shared Preferences, Custo
 - Dự án 1 : [Java](https://github.com/lethanhtan14122002/Java/tree/master)
 
 - Dự án 2 : [PHP](https://github.com/lethanhtan14122002/DA.PHP)
+
+- Dự án 3 : [Flutter](https://github.com/lethanhtan14122002/Flutter/tree/main)
 
 ## Liên hệ
 
